@@ -11,3 +11,5 @@ screenshare.start({
   .catch(function(error) {
      // error callback
   });
+
+screenshare.stop();
